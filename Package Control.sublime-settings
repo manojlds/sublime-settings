@@ -1,0 +1,23 @@
+{
+	"auto_upgrade_last_run": 1353863034,
+	"installed_packages":
+	[
+		"Git",
+		"Handlebars",
+		"LineEndings",
+		"Octopress Snippets",
+		"Package Control",
+		"PowerShell",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SJSON",
+		"SmartMarkdown",
+		"sublime-octopress",
+		"Surround",
+		"Theme - Soda"
+	],
+	"repositories":
+	[
+		"https://github.com/yangsu/sublime-octopress"
+	]
+}
